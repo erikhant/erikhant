@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PT Zeta Teknologi Asia
+- 💻 I’m currently working on PT Yafii Solusi Internasional
 - 🌱 I’m currently learning ASP.NET and C#
 - 👯 I’m looking to collaborate on any web project
 - 📫 How to reach me: Contact via email
